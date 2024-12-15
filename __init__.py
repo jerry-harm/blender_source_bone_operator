@@ -345,6 +345,3 @@ def unregister():
 
 if __name__ == "__main__":
     register()
-
-    # test call
-    bpy.ops.armature.sourcebone('EXEC_DEFAULT')
